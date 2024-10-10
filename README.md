@@ -41,14 +41,6 @@ The **Superstore Sales Analysis Report** presents detailed insights on:
 ### 6. **Sales by Category**
    - A pie chart dividing sales into three main categories: Technology (36.4%), Furniture (32.3%), and Office Supplies (31.3%).
 
-## How to View the Report
-
-To explore this report in Power BI:
-
-1. Clone this repository.
-2. Open the Power BI `.pbix` file in Power BI Desktop.
-3. Explore the different pages and visualizations to gain insights into the sales data.
-
 ## Tools & Technologies Used
 
 - **Power BI Desktop**: For creating interactive dashboards and reports.
